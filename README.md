@@ -1,5 +1,17 @@
 Images of the web application
 
+This web App gives recommendation on Medicine. This Web App is uniquely designed for Chemist shops. 
+
+1. Suppose you are medical shopkeeper and people comes to your shop for purchase a medicine. Then you can check throw this web app whether the medicine is available in your stock or not (from excel file). 
+
+2. This web App can check the Cost, Prescription, side effects and substitution of the medicine as well if the asked medicine is not present in your stock. 
+
+3. The medicine name should be from the csv sheet only.
+
+To Test the application you can enter the following examples on search bar - 
+
+Emvex 16 mg Tablet,  zipant 40 mg tablet,  acrobenz A gel,  Fluticort F 250 Inhaler or many more present in the excel sheet in github. 
+
 ![1](https://user-images.githubusercontent.com/47499505/60874000-ec7bce00-a254-11e9-9c8a-a77d33d7fc52.png)
 
 ![2](https://user-images.githubusercontent.com/47499505/60874079-10d7aa80-a255-11e9-8143-389a7f80af17.png)
