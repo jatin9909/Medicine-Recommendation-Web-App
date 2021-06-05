@@ -2,9 +2,9 @@ Images of the web application
 
 This web App gives recommendation on Medicine. This Web App is uniquely designed for Chemist shops. 
 
-1. Suppose you are medical shopkeeper and people comes to your shop for purchase a medicine. Then you can check throw this web app whether the medicine is available in your stock or not (from excel file). 
+1. Suppose you are medical shopkeeper and people comes to your shop for purchase a medicine. Then you can check through this web app whether the medicine is available in your stock or not (from excel file). 
 
-2. This web App can check the Cost, Prescription, side effects and substitution of the medicine as well if the asked medicine is not present in your stock. 
+2. This web App can check the Cost, Prescription, side effects and substitution of the asked medicine as well. 
 
 3. The medicine name should be from the csv sheet only.
 
